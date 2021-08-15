@@ -1,5 +1,5 @@
 # Flash Twitch Bot
-###### Development Started: May 2021 | This will be put into a discord bot.
+###### Development Started: May 2021 | This will be put into a discord bot. (idk when/if lol)
 
 1. Put tokens in tokens.txt
 
@@ -13,7 +13,7 @@ Im releasing this because there are way too many ```twitch follow bot``` discord
 I am not responsible for anything that happens. 
 
 
-
+not sure if this works anymore, havent used it for ages
 
 FAQ:
 
