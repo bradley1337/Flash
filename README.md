@@ -1,4 +1,4 @@
-# Flash Twitch Bot
+# Flash Twitch Bot (Patched)
 ###### Development Started: May 2021 | This will be put into a discord bot. (idk when/if lol)
 
 1. Put tokens in tokens.txt
