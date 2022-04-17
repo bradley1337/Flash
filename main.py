@@ -6,7 +6,7 @@ import json
 import sys
 import time
 
-print("\n[+] Flash has started...
+print("\n[+] Flash has started...")
 try:
   import requests
 except ImportError:
